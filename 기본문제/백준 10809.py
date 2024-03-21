@@ -13,7 +13,7 @@ for i in Ap:
     else:
         print(-1,end=' ')
 
-"""
+""" 
 2. find() 이용
 S = input()
 

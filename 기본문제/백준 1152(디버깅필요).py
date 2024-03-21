@@ -19,6 +19,8 @@ cnt = 0
 for i in range(len(S)):
     if S[i] == ' ':
         cnt += 1
+    else:
+        print(0)
 
 print(cnt + 1)
 """
