@@ -1,6 +1,6 @@
 # Algorithm_CodingTest
 
-### BaekJoon 온라인 저지를 통한 Algoritm 스터디
+### BaekJoon 온라인 저지를 통한 Algorithm 스터디
 
 **🛠 Language : `PYTHON`**
 
