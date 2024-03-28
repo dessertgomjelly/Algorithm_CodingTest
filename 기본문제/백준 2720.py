@@ -41,7 +41,7 @@ def money(num):
 
 for num in exchange:
     result = money(num)
-    print(result
+    print(result)
 """
 
 import sys
