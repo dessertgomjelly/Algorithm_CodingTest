@@ -2,6 +2,14 @@
 
 ### BaekJoon 온라인 저지를 통한 Algorithm 스터디
 
-**🛠 Language : `PYTHON`**
+- **`1일 1 Sol to platinum`**
+<br>
+<br>
+
+### 🛠 Language : `PYTHON`
 
 - **BaekJoon :** [https://www.acmicpc.net/](https://www.acmicpc.net/)
+
+<br>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=msj1291)](https://solved.ac/msj1291/)
