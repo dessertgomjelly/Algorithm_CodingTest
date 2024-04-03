@@ -10,4 +10,4 @@ while True:
     if p[0] + p[1] <= p[2]:
         print("Invalid")
 
-    elif p[0] ==
+    elif p[0] ==asdfdsafdsafadsadsffd
